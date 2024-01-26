@@ -1,0 +1,51 @@
+1683537242731	Rename compilation unit 'Employee.java'
+1683537567115	Delete element
+1683537662872	Rename type 'Main'
+1683537690793	Delete element
+1683537710695	Rename package 'srp'
+1683537941424	Delete element
+1683538063526	Rename type 'MainV0'
+1683538185746	Move compilation unit
+1683538220211	Move compilation unit
+1683538245252	Delete element
+1683538253462	Move compilation unit
+1683538353360	Copy packages
+1683538398737	Copy package
+1683538405143	Delete elements
+1683538417399	Delete element
+1683538423592	Delete element
+1683538433430	Delete element
+1683538455613	Delete element
+1683556173722	Rename package 'v0srp'
+1683556193983	Rename package 'v1srp'
+1683556210130	Rename package 'ocp'
+1683556251422	Rename package 'augurdb'
+1683556268813	Rename package 'project'
+1683556278985	Rename package 'utils'
+1683556291719	Rename package 'no_solid'
+1683556300709	Rename package 'e01_augurdb'
+1683556309378	Rename package 'e01_project'
+1683556321516	Rename package 'e01_utils'
+1683556339356	Rename package 'single_responsibility_principle'
+1683556352178	Rename package 'e01_no_solid'
+1683556369059	Rename package 'open_closed_principle'
+1683556393330	Rename package 'e01_single_responsibility_principle'
+1683556411630	Rename package 's02_open_closed_principle'
+1683556445386	Rename package 'e00_augurdb'
+1683556459987	Rename package 'e00_no_solid'
+1683556467455	Rename package 'e00_project'
+1683556474996	Rename package 'e00_utils'
+1683556863989	Rename type 'EmployeeV1'
+1683557322506	Rename type 'AugurDbAdapter'
+1683557385567	Delete element
+1683557437026	Delete element
+1683710653575	Delete elements
+1683721712898	Rename package 'solid_exercise'
+1683721722587	Rename package 'solid_exercise_srp'
+1683721735738	Rename package 'solid_exercise_01_srp'
+1683722157526	Copy compilation units
+1683722726981	Rename type 'SortByAuthor'
+1683729278593	Copy compilation unit
+1683729873842	Delete element
+1683729879787	Delete element
+1683729888553	Delete element

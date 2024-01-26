@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/Users/kyrillschmid/Documents/academy/courses/blended learning/java-clean-code/sources/examples/Solution/solid/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
